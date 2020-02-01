@@ -1,0 +1,13 @@
+.idea/
+.settings/
+.git/
+
+CatalogService.iml
+README.txt
+
+.classpath
+.factory
+.project
+
+
+
